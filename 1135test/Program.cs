@@ -6,7 +6,7 @@ namespace _1135test
     {
         public static void Main(string[] args)
         {
-            Console.Write("3.14159");
+            Console.Write("0724");
         }
     }
 }
